@@ -1,0 +1,9 @@
+true
+all
+%
+ALL time
+time in process
+substitution
+FILE substitution
+รวมสามไฟล์แล้วค่อยคำนวณ
+FILE ผลลัพธ์ทั้งสาม
